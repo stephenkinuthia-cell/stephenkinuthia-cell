@@ -28,6 +28,11 @@
   - **Data storytelling with Python & R**  
   - Transitioning from **Actuarial Science → Data Science**  
 
+- 🌍 Current Goals
+  - Join **Teach2Give** to sharpen my software and data skills  
+  - Contribute to impactful open-source projects  
+  - Build intelligent systems that solve African challenges  
+
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/stephen-kinuthia)  
   - [GitHub](https://github.com/stephenkinuthia-cell)  
@@ -37,4 +42,12 @@
 
 - ⚡ Fun fact:  
   I’m both a **numbers person and a storyteller**—I love turning raw data into insights that drive action.  
+
+## 📊 GitHub Stats  
+
+![Stephen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenkinuthia-cell&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stephenkinuthia-cell&theme=tokyonight)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenkinuthia-cell&layout=compact&theme=tokyonight)  
 
