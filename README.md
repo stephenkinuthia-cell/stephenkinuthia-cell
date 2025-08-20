@@ -31,7 +31,7 @@
 - 📫 How to reach me:  
   - [LinkedIn](https://www.linkedin.com/in/stephen-kinuthia)  
   - [GitHub](https://github.com/stephenkinuthia-cell)  
-  - ✉️ Email: stephenkinuthia@example.com  
+  - ✉️ Email: kinuthiastephen94@gmail.com  
 
 - 😄 Pronouns: He/Him  
 
