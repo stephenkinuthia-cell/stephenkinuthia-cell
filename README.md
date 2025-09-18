@@ -41,7 +41,7 @@
 - 😄 Pronouns: He/Him  
 
 - ⚡ Fun fact:  
-  I’m both a **numbers person and a storyteller**—I love turning raw data into insights that drive action.  
+  I’m both a numbers person and a storytellerI love turning raw data into insights that drive action.  
 
 ## 📊 GitHub Stats  
 
