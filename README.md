@@ -1,22 +1,22 @@
 ## 👋 Hi, I’m Stephen Kinuthia  
 
-🎓 Final year **Actuarial Science Student** (Graduating December 2025)  
-💡 Passionate about **Data Science, Machine Learning, and AI for real-world impact**  
-📍 Based in Kenya | Open to opportunities in **Tech, Data, and Innovation**    
+🎓 Final year Actuarial Science Student (Graduating December 2025)  
+💡 Passionate about Data Science, Machine Learning, and AI for real-world impact 
+📍 Based in Kenya | Open to opportunities in Tech, Data, and Innovation   
 
 - 🔭 I’m currently working on:  
-  - Modeling employee attrition rates using **Weibull survival analysis**  
+  - Modeling employee attrition rates using Weibull survival analysis 
   - Celebrity Sightings in India using Multi-task Cascaded Convolutional Network (MTCNN) model together with Inception-ResNet model to perform face recognition. 
-  - Exploring **AI agents & Bayesian modeling**  
+  - Exploring AI agents & Bayesian modeling  
 
 - 🌱 I’m currently learning:  
-  - **Full-stack development** (Python, JavaScript, React)  
-  - **Deep Learning** with PyTorch  
-  - **Cloud & GitHub workflows**  
+  - Full-stack development (Python, JavaScript, React)  
+  - Deep Learning with PyTorch  
+  - Cloud & GitHub workflows 
 
 - 👯 I’m looking to collaborate on:  
-  - Open-source **data science projects**  
-  - **AI for social good** initiatives in Africa  
+  - Open-source data science projects
+  - AI for social good initiatives in Africa  
   - Machine learning competitions (Kaggle, Zindi)  
 
 - 🤔 I’m looking for help with:  
@@ -24,12 +24,12 @@
   - Best practices in software engineering  
 
 - 💬 Ask me about:  
-  - **Survival Analysis, Time Series, Risk Modeling**  
-  - **Data storytelling with Python & R**  
-  - Transitioning from **Actuarial Science → Data Science**  
+  - Survival Analysis, Time Series, Risk Modeling  
+  - Data storytelling with Python & R  
+  - Transitioning from Actuarial Science → Data Science and tech 
 
 - 🌍 Current Goals
-  - Join **Teach2Give** to sharpen my software and data skills  
+  - Join Teach2Give (already Joined, thanks to Teach2Give community for this opportunity) to sharpen my software and data skills  
   - Contribute to impactful open-source projects  
   - Build intelligent systems that solve African challenges  
 
