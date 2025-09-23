@@ -9,10 +9,9 @@
   - Celebrity Sightings in India using Multi-task Cascaded Convolutional Network (MTCNN) model together with Inception-ResNet model to perform face recognition. 
   - Exploring AI agents & Bayesian modeling  
 
-- 🌱 I’m currently learning:  
-  - Full-stack development (Python, JavaScript, React)  
-  - Deep Learning with PyTorch  
-  - Cloud & GitHub workflows 
+- 🌱 I’m currently learning:
+  - QA/QE at Teach2Give  
+  - Applied AI lab at WorldQuant university
 
 - 👯 I’m looking to collaborate on:  
   - Open-source data science projects
