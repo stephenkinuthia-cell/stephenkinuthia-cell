@@ -4,15 +4,15 @@
  Passionate about Data Science, Machine Learning, and AI for real-world impact 
  Based in Kenya | Open to opportunities in Tech, Data, and Innovation   
 
--  I’m currently working on:  
+####  I’m currently working on:  
   - Modeling employee attrition rates using Weibull survival analysis 
   - Celebrity Sightings in India using Multi-task Cascaded Convolutional Network (MTCNN) model together with Inception-ResNet model to perform face recognition. 
   - Exploring AI agents & Bayesian modeling  
 
--  I’m currently learning:
+#### I’m currently learning:
   - Applied AI lab at WorldQuant university
 
--  I’m looking to collaborate on:  
+#### I’m looking to collaborate on:  
   - Open-source data science projects
   - AI for social good initiatives in Africa  
   - Machine learning competitions (Kaggle, Zindi)  
@@ -21,13 +21,13 @@
   - Scaling ML models to production  
   - Best practices in software engineering  
 
-- Ask me about:  
+#### Ask me about:  
   - Survival Analysis, Time Series, Risk Modeling  
   - Data storytelling with Python & R  
   - Transitioning from Actuarial Science → Data Science and tech
   - Quality Assurance / Quality Engineering
 
-  - Current Goals
+  #### Current Goals
   - Contribute to impactful open-source projects  
   - Build intelligent systems that solve African challenges  
 
